@@ -1,1 +1,1 @@
-# Detecting-Faces-in-Images
+# Images Detector
